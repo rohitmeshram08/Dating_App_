@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\AVICS\\Dating_app_1\\Dating_app_1.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\AVICS\\GIT_HUB_DATING_APP\\Dating_App_\\Dating_app_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\AVICS\\Dating_app_1\\Dating_app_1.csproj": {
+    "C:\\Users\\Asus\\Desktop\\AVICS\\GIT_HUB_DATING_APP\\Dating_App_\\Dating_app_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\AVICS\\Dating_app_1\\Dating_app_1.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\AVICS\\GIT_HUB_DATING_APP\\Dating_App_\\Dating_app_1.csproj",
         "projectName": "Dating_app_1",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\AVICS\\Dating_app_1\\Dating_app_1.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\AVICS\\GIT_HUB_DATING_APP\\Dating_App_\\Dating_app_1.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\AVICS\\Dating_app_1\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\AVICS\\GIT_HUB_DATING_APP\\Dating_App_\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,13 +38,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -80,24 +74,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -106,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
