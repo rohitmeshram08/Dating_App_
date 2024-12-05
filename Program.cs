@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<DataContext>(option => { option.UseSqlServer("Data Source=ROHIT-LAPTOP-6-\\SQLEXPRESS;Initial Catalog=MY_API_CRUD;Integrated Security=True"); });  
+builder.Services.AddDbContext<DataContext>(option => { option.UseSqlServer("Data Source=ROHIT-LAPTOP-6-\\SQLEXPRESS;Initial Catalog=MY_API_CRUD;Integrated Security=True");  });  
   
 
 var app = builder.Build();
